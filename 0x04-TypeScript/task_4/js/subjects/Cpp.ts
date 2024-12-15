@@ -19,4 +19,6 @@ namespace Subjects {
             }
         }
     }
+
+    export const cpp = new Cpp();
 }
